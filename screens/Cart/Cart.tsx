@@ -33,7 +33,7 @@ const Cart = ({ navigation }: any) => {
 			</View>
 			<View
 				// style={{ flex: 0.1 }}
-				style={tw`flex basis-1/10 flex-row justify-between align-center items-center px-2`}
+				style={tw`flex basis-1/10 flex-row justify-between items-center px-2`}
 			>
 				<Text
 					style={tw`bg-gray-800 text-white rounded px-2 py-2 text-lg`}

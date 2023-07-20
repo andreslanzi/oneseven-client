@@ -4,7 +4,7 @@ import { getCategories, getProducts } from "./fetchers";
 import { Category, Meal } from "./types";
 import { ShoppingCartProvider } from "./context/ShoppingCartContext";
 import { StripeProvider } from "@stripe/stripe-react-native";
-import NavigationTabs from "./NavigationTabs";
+import NavigationTabs from "./tabs";
 import tw from "twrnc";
 
 export default function App() {

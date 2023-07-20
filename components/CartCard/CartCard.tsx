@@ -36,7 +36,7 @@ const CartCard = ({ meal, isOrderComplete }: CartCardProps) => {
 			{quantity !== 0 && !isOrderComplete && (
 				<View style={tw`flex flex-col`}>
 					<View
-						style={tw`flex flex-row flex-wrap justify-center align-center items-center`}
+						style={tw`flex flex-row flex-wrap justify-center items-center`}
 					>
 						<Pressable
 							onPress={() => {

@@ -69,7 +69,7 @@ const NavigationTabs = ({ categories, meals }: NavigationTabsProps) => {
 							selectedCategory ? (
 								<Button
 									title="BACK"
-									color="#fb7185"
+									color="#03DAC5"
 									onPress={() =>
 										setSelectedCategory(undefined)
 									}

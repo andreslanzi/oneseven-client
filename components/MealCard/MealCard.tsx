@@ -78,7 +78,7 @@ const MealCard = ({ meal, expanded }: MealCardProps) => {
 				)}
 				{quantity !== 0 && (
 					<View
-						style={tw`flex flex-row flex-wrap  justify-center align-center items-center`}
+						style={tw`flex flex-row flex-wrap  justify-center items-center`}
 					>
 						<Pressable
 							style={tw`mr-8`}
