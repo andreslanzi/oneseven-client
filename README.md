@@ -1,7 +1,7 @@
 # oneseven-client  
 Menu mobile app with react native for the frontend and nestjs for the backend.  
 
-THESE APP NEEDS THIS SERVER ( https://github.com/andreslanzi/oneseven-server ) TO BE RUN CONCURRENTLY. Follow its Readme steps as well.  
+THIS CLIENT APP NEEDS THIS SERVER ( https://github.com/andreslanzi/oneseven-server ) TO BE RUN CONCURRENTLY. Follow its Readme steps as well.  
 
 To run the app you need to:  
 
